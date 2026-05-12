@@ -3,3 +3,6 @@ using namespace std;
 
 #include "anak.h"
 #include "ibu.h"
+
+int main() {
+    ibu* varIbu1 = new ibu("dini");
