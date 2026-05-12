@@ -6,3 +6,5 @@ using namespace std;
 
 int main() {
     ibu* varIbu1 = new ibu("dini");
+    ibu* varIbu2 = new ibu("novi");
+    
